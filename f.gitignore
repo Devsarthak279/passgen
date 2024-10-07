@@ -1,1 +1,8 @@
+# Byte-compiled / optimized / DLL files
+_pycache_/
+*.py[cod]
+*.so
 
+# Virtual environments
+.env/
+venv/
