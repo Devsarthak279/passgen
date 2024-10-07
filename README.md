@@ -11,16 +11,16 @@ This is a simple password generator built with Python and Tkinter. It allows you
 ## Screenshots
 
 ### Main Application Interface
-![Main Screen](images/main_screen.png)
+![Main Screen](main_screen.png)
 *The main interface of the password generator application*
 
 ### Password Generation Demo
-![Feature Demo](images/feature-demo.png)
+![Feature Demo](feature-demo.png)
 *Demonstrating the password generation and saving process*
 
 ### Saved Passwords
-![Results](images/result.png)
-*View of saved passwords and website information*
+![Results](result.png)
+
 ## How to Use
 
 1. Run `main.py` to start the application.
